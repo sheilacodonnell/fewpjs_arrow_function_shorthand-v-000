@@ -1,3 +1,3 @@
-let divide = (num1, num2) => {
-  return num1 + num2;
+let divide = (parameter1, parameter2) => {
+  return parameter1 + parameter2;
 }
