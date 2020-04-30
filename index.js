@@ -1,5 +1,5 @@
 let divide = () => {
-  return parameter1 / parameter2;
+  return 2000 / 100;
 }
 
 let square = (parameter1) => {
