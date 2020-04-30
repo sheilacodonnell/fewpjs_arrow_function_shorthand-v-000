@@ -1,4 +1,4 @@
-let divide = (parameter1, parameter2) => {
+let divide = () => {
   return parameter1 / parameter2;
 }
 
